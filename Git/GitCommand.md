@@ -36,7 +36,10 @@
 4.remote
 
 - `git remote add origin <주소>`
+
 - 원격 저장소와 현재 로컬 저장소를 연결
+
+  ![image-20201229160138482](GitCommand.assets/image-20201229160138482.png)
 
 5.push
 
