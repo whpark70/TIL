@@ -42,3 +42,11 @@
 
 - `git push origin master`
 - 원격 저장소에 로컬 저장소의 데이터를 전송
+
+6.status
+
+- `git status`
+
+  ![image-20201229154229906](GitCommand.assets/image-20201229154229906.png)
+
+- 추적해야 할 파일과 add는 했지만 commit이 필요한 파일들을 보여준다.
