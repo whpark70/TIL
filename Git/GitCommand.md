@@ -2,7 +2,11 @@
 
 > git  명령어 정리
 
-0.init
+##### 초기설정
+
+----
+
+1.init
 
 - `git init`
 - .git/ 폴더를 생성한다.
@@ -12,6 +16,13 @@
 - .git 폴더가 생성된 경우 오른쪽에 `master`라는 표시가 나온다.
 - 최초에 한 번만 한다
 
+2.config
+
+- `git config --global user.email "id@example.com"`
+  - 이메일의 경우 github에 올릴 경우 잔디가 심어지는 기준이므로 정확하게 입력
+
+
+
 1.add
 
 > working directory에서 Staging 영역으로 이동
@@ -19,10 +30,7 @@
 - `git add <file name>`
   - `git add . ` 현재 폴더의  수정된 파일
 
-2.config
-
-- `git config --global user.email "id@example.com"`
-  - 이메일의 경우 github에 올릴 경우 잔디가 심어지는 기준이므로 정확하게 입력
+- - 
 
 3.commit
 
